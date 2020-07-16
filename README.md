@@ -1,13 +1,8 @@
-### Hi there, I'm esang. 👋
+### Hi, I'm esang. 👋
 
 <!--
 **sangyx/sangyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<p align="center">
-  <a href="https://www.sangyx.com">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
-</p>
 
 
 - 🔭 I’m currently working on **Recommendation & GNN**
