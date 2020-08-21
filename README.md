@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I’m currently working on **Recommendation & GNN**
-- 🌱 I’m currently learning **Recommendation System & Finance**
+- 🔭 I’m currently working on **GNN & MARL**
+- 🌱 I’m currently learning **Recommendation System**
 - 💬 Ask me about **Python & Deep Learning**
 - 📫 How to reach me: [blog](https://www.sangyx.com)
