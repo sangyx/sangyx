@@ -7,5 +7,5 @@
 -->
 
 
-- 🔭 I’m interested in **GNN & PU Learning**
+- 🔭 I’m interested in **GNN & FinTech**
 - 📫 How to reach me: [blog](https://www.sangyx.com)
