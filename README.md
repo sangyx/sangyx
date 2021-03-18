@@ -7,5 +7,5 @@
 -->
 
 
-- 🔭 I’m interested in **GNN & FinTech**, and looking for related 2022 phd projects.
+- 🔭 I’m interested in **GNN & FinTech**.
 - 📫 How to reach me: [blog](https://www.sangyx.com)
