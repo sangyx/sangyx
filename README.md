@@ -8,6 +8,6 @@
 
 Now, I'm working as a software development engineer in Alibaba Cloud.
 
-I'm interested in **graph mining and its application in Management and Social Science problems**.
+I'm interested in **graph mining and its application in Finance and Social Science problems**.
 
 If you're interested in my projects, feel free to contact my: sangyunxin.at.gmail.com.
