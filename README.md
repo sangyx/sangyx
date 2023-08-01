@@ -1,13 +1,7 @@
 ### Hi, I'm Yunxin Sang. 👋
 
-<!--
-**sangyx/sangyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I’m currently learning **Recommendation System**
-- 💬 Ask me about **Python & Deep Learning**
--->
+I'm currently working as a Ph.D. Student at McCombs School of Business, UT Austin.
 
-Now, I'm working as a software development engineer in Alibaba Cloud.
+I'm interested in **AI for Business**, exactly, I design deep learning models to solve practical business problems.
 
-I'm interested in **graph learning and its application in Finance and Management Science problems**.
-
-If you're interested in my projects, feel free to contact my.
+If you're interested in my projects, feel free to contact me.
